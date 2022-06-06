@@ -11,4 +11,6 @@ I made this game over the course of 72 hours. The design and programming was don
 Art, sound effects, and visuals were acquired from Unity assets.
 
 <h2>New Repository Update</h2>
-<p>This project came from a previous repository that contained all 3rd party assets. Most art, music, and sfx files have now been witheld from the repository for redistribution purposes.</p>
+<p>This project came from a previous repository that contained 3rd party assets. Most art, music, and sfx files have now been witheld from the repository for redistribution purposes. The following package is needed in order to run the project properly. If opened without the multi-scene package, note that the "Global" scene should be dragged into the hierarchy of other scenes before running the game.</p>
+
+<p>Coding Jar Advanced Multi-Scene: https://assetstore.unity.com/packages/tools/utilities/advanced-multi-scene-cross-scene-references-47200#description</p>
